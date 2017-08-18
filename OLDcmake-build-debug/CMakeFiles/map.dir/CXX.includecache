@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/tombr/Dropbox/CLion/PluralSight/Kate/map/Person.cpp
+iostream
+-
+Person.h
+/cygdrive/c/Users/tombr/Dropbox/CLion/PluralSight/Kate/map/Person.h
+
+/cygdrive/c/Users/tombr/Dropbox/CLion/PluralSight/Kate/map/Person.h
+string
+-
+
+/cygdrive/c/Users/tombr/Dropbox/CLion/PluralSight/Kate/map/main.cpp
+iostream
+-
+map
+-
+
